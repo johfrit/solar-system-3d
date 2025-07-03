@@ -3,7 +3,7 @@
 **Author:** Johfrit  
 **Assignment for:** Empty Cup Frontend Internship  
 **Tech Stack:** JavaScript (ES6+), Three.js, HTML5, CSS3 (for layout only)  
-**Live Demo:** [Click here to view the project in browser](https://your-username.github.io/solar-system-3d/)  
+**Live Demo:** [Click here to view the project in browser](https://solar-system-3d-ruby.vercel.app/)  
 *(replace the link above after GitHub Pages setup)*
 
 ---
@@ -56,10 +56,3 @@ All animation logic is implemented in **pure JavaScript** (no CSS animations use
 
 ---
 
-## 🛠 How to Run Locally
-
-### 🧳 Clone or Download
-
-```bash
-git clone https://github.com/your-username/solar-system-3d.git
-cd solar-system-3d
