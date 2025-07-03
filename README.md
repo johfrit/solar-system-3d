@@ -1,6 +1,6 @@
 # 🌌 3D Solar System Simulation – Frontend Developer Assignment
 
-**Author:** Johfrit  
+**Author:** Johfrit J
 **Assignment for:** Empty Cup Frontend Internship  
 **Tech Stack:** JavaScript (ES6+), Three.js, HTML5, CSS3 (for layout only)  
 **Live Demo:** [Click here to view the project in browser](https://solar-system-3d-ruby.vercel.app/)  
